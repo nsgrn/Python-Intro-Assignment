@@ -1,0 +1,25 @@
+Capital= 1000
+Daily_Growth= 1.12
+Period= 7
+Final_Growth= Capital * Daily_Growth ** Period
+print(Final_Growth)
+2nd Assignment
+Capital= 1000
+Daily_Growth= 1.12
+Period= 7
+Final_Growth= Capital * Daily_Growth ** Period
+print("""When we buy bitcoin with {} USD at the beginning of the week,
+we would earn {} at the end of the week, with an average gain of {}.""".format(Capital, Final_Growth, Daily_Growth))
+Result: When we buy bitcoin with 1000 USD at the beginning of the week,
+we would earn 2210.6814074060812 at the end of the week, with an average gain of 1.12.
+3rd Assigment
+Fahrenheit = 26
+Celcius = 5/9 * (Fahrenheit - 32)
+print(Celcius)
+4ü yapamdım tuple ile çözmeye çalıştım tekrar 365 birleşti
+fifth Assignment
+first_side= 6
+first_side= 6
+second_side= 8
+hypotenuse= (first_side**2 + second_side**2)**0.5
+print("The length of the hypotenuse is {}".format(hypotenuse))
